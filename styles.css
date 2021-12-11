@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+.fullpage{
+    background-color: #F2BF80; 
+    position: absolute;
+    width: 100%; 
+    height: 100%;
+}
+
+.Text{
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.inner{
+    font-family: 'Abel', sans-serif;
+    font-size: 80px; 
+    color: #A9ABD6; 
+}
